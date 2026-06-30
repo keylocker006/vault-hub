@@ -1,0 +1,4 @@
+This is a personal project that is ongoing.
+
+
+THE COLLECTION WILL BE UPDATED ONCE A WEEK OR MORE DEPENDING ON MY SCHEDULE.
