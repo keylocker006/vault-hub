@@ -324,6 +324,14 @@ body {
     border-top: 3px solid #ec407a;
 }
 
+/* CIA - Red */
+.doc-card[data-person="cia"] {
+    --accent: #ff0000;
+    --bg-card: #2c2920;
+    border-top: 3px solid #ff0000;
+
+}
+
 /* Default / Catch-All for any other figures you add */
 .doc-card {
     border-top: 3px solid transparent; /* Keeps layout spacing consistent */
