@@ -308,7 +308,7 @@ body {
 /* Albert Einstein - Golden Yellow Theme */
 .doc-card[data-person="albert einstein"] {
     --accent: #ffca28;
-    --bg-card: #2c2920; /* Slightly gold-tinted dark gray instead of standard dark gray */
+    /*--bg-card: #2c2920; Slightly gold-tinted dark gray instead of standard dark gray */
     border-top: 3px solid #ffca28;
 }
 
@@ -327,7 +327,7 @@ body {
 /* CIA - Red */
 .doc-card[data-person="cia"] {
     --accent: #ff0000;
-    --bg-card: #2c2920;
+    
     border-top: 3px solid #ff0000;
 
 }
@@ -360,4 +360,9 @@ body {
 .text-orange {
     color: #ff7043;
     font-weight: 200;
+}
+
+.text-red {
+    color:#ff0000;
+    font-weight: 2000;
 }
