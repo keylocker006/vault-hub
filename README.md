@@ -15,5 +15,5 @@ Declassified documents collection dashboard. Search for any historical figures a
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/github/license/KeylockerLabs/vault-hub?label=MIT%20License&color=brightgreen" alt="MIT License">
-  <img src="https://img.shields.io/github/stars/KeylockerLabs/vault-hub?style=for-the-badge" alt="Stars">
+  
 </p>
